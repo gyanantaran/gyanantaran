@@ -10,3 +10,5 @@
 [![Generic badge](https://img.shields.io/badge/Java-Green.svg)](https://github.com/gyanantaran/)
 [![Generic badge](https://img.shields.io/badge/C%23-Orange.svg)](https://github.com/gyanantaran/)
 [![Generic badge](https://img.shields.io/badge/Go-Orange.svg)](https://github.com/gyanantaran/)
+
+![vishalpaudel - coverimage](https://github.com/gyanantaran/gyanantaran/assets/95016059/c10175bd-fb2d-4cdd-8d18-b7b506779003)
